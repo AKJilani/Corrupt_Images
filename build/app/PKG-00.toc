@@ -1,0 +1,1000 @@
+('E:\\A.K.Jilani\\Web '
+ 'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\app.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('app',
+   'E:\\A.K.Jilani\\Web Development\\OSTAD\\Corrupt_Image_Finder\\app.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python Insall\\python312.dll',
+   'BINARY'),
+  ('select.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python Insall\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python Insall\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python Insall\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp312-win_amd64.pyd',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\markupsafe\\_speedups.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-8021418012832a07a8ca5105a33b1086.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy.libs\\msvcp140-8021418012832a07a8ca5105a33b1086.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-fb1711452d4d8cee9f276fd1449ee5c7.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-fb1711452d4d8cee9f276fd1449ee5c7.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes312.dll',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'E:\\A.K.Jilani\\Web '
+   'Development\\OSTAD\\Corrupt_Image_Finder\\build\\app\\base_library.zip',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\licenses\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.BSD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\entry_points.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.APACHE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('blinker-1.8.2.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\blinker-1.8.2.dist-info\\RECORD',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\entry_points.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\entry_points.txt',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'DATA'),
+  ('werkzeug-3.0.3.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\werkzeug-3.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('blinker-1.8.2.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\blinker-1.8.2.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('blinker-1.8.2.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\blinker-1.8.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('blinker-1.8.2.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\blinker-1.8.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('werkzeug-3.0.3.dist-info\\LICENSE.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\werkzeug-3.0.3.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('blinker-1.8.2.dist-info\\LICENSE.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\blinker-1.8.2.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\LICENSE',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\entry_points.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\LICENSE.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\top_level.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\INSTALLER',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('werkzeug-3.0.3.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\werkzeug-3.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('blinker-1.8.2.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\blinker-1.8.2.dist-info\\WHEEL',
+   'DATA'),
+  ('werkzeug-3.0.3.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\werkzeug-3.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\METADATA',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('flask-3.0.3.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\flask-3.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\WHEEL',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('werkzeug-3.0.3.dist-info\\REQUESTED',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\werkzeug-3.0.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\entry_points.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('werkzeug-3.0.3.dist-info\\RECORD',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\werkzeug-3.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\LICENSE.txt',
+   'E:\\A.K.Jilani\\Web Development\\PYTHON ALL\\Python '
+   'Insall\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

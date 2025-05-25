@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Corruption Checker</title>
+</head>
+<body>
+    <div style="max-width: 800px; margin: 50px auto; padding: 20px; font-family: Arial, sans-serif;">
+        <h1 style="text-align: center; color: #333;">Image Corruption Checker</h1>
+        
+        <div style="background: #f5f5f5; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+            <div style="margin-bottom: 15px;">
+                <label for="folderPath" style="display: block; margin-bottom: 5px; font-weight: bold;">Main Folder Path:</label>
+                <input type="text" id="folderPath" placeholder="Enter main folder path (e.g., C:\Images\A)" 
+                       style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+            </div>
+            
+            <div style="margin-bottom: 15px;">
+                <label for="folderNames" style="display: block; margin-bottom: 5px; font-weight: bold;">Folder Names (one per line):</label>
+                <textarea id="folderNames" placeholder="Enter folder names, one per line:&#10;123&#10;456&#10;789" 
+                          rows="8" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; resize: vertical;"></textarea>
+            </div>
+            
+            <button id="startBtn" onclick="startProcessing()" 
+                    style="background: #007bff; color: white; padding: 12px 24px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; width: 100%;">
+                Start Processing
+            </button>
+        </div>
+        
+        <div id="statusDiv" style="background: #e9ecef; padding: 15px; border-radius: 8px; margin-bottom: 20px; display: none;">
+            <h3 style="margin-top: 0;">Processing Status:</h3>
+            <div id="statusContent"></div>
+        </div>
+        
+        <div id="resultDiv" style="background: #d4edda; padding: 15px; border-radius: 8px; border: 1px solid #c3e6cb; display: none;">
+            <h3 style="margin-top: 0; color: #155724;">Results:</h3>
+            <div id="resultContent"></div>
+        </div>
+        
+        <div id="errorDiv" style="background: #f8d7da; padding: 15px; border-radius: 8px; border: 1px solid #f5c6cb; display: none;">
+            <h3 style="margin-top: 0; color: #721c24;">Error:</h3>
+            <div id="errorContent"></div>
+        </div>
+    </div>
+
+    <script>
+        let statusInterval;
+        
+        function startProcessing() {
+            const folderPath = document.getElementById('folderPath').value.trim();
+            const folderNames = document.getElementById('folderNames').value.trim();
+            
+            if (!folderPath || !folderNames) {
+                showError('Please fill in both folder path and folder names');
+                return;
+            }
+            
+            // Reset displays
+            hideAllMessages();
+            
+            // Disable button and show processing status
+            const startBtn = document.getElementById('startBtn');
+            startBtn.disabled = true;
+            startBtn.textContent = 'Processing...';
+            startBtn.style.background = '#6c757d';
+            
+            // Send request to start processing
+            fetch('/start_processing', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    folder_path: folderPath,
+                    folder_names: folderNames
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    showError(data.error);
+                    resetButton();
+                } else {
+                    showStatus('Processing started...');
+                    // Start polling for status updates
+                    statusInterval = setInterval(checkStatus, 1000);
+                }
+            })
+            .catch(error => {
+                showError('Failed to start processing: ' + error.message);
+                resetButton();
+            });
+        }
+        
+        function checkStatus() {
+            fetch('/get_status')
+            .then(response => response.json())
+            .then(data => {
+                if (data.is_processing) {
+                    const folderProgress = data.total_folders > 0 ? 
+                        Math.round((data.processed_folders / data.total_folders) * 100) : 0;
+                    const imageProgress = data.total_images > 0 ? 
+                        Math.round((data.processed_images / data.total_images) * 100) : 0;
+                    
+                    showStatus(`
+                        <strong>Current Folder:</strong> ${data.current_folder}<br>
+                        <strong>Folder Progress:</strong> ${data.processed_folders}/${data.total_folders} (${folderProgress}%)<br>
+                        <strong>Image Progress:</strong> ${data.processed_images}/${data.total_images} (${imageProgress}%)<br>
+                        <strong>Processing Speed:</strong> ${data.images_per_second} images/second<br>
+                        <strong>Corrupt Images Found:</strong> ${data.corrupt_images.length}<br>
+                        <div style="background: #e9ecef; border-radius: 10px; overflow: hidden; margin-top: 10px;">
+                            <div style="background: linear-gradient(90deg, #007bff, #28a745); height: 20px; width: ${imageProgress}%; transition: width 0.3s;"></div>
+                        </div>
+                        <div style="font-size: 12px; color: #666; margin-top: 5px;">
+                            Ultra-Fast Processing Mode Active
+                        </div>
+                    `);
+                } else {
+                    // Processing completed
+                    clearInterval(statusInterval);
+                    hideStatus();
+                    
+                    if (data.message) {
+                        showResult(data.message);
+                    }
+                    
+                    resetButton();
+                }
+            })
+            .catch(error => {
+                clearInterval(statusInterval);
+                showError('Failed to get status: ' + error.message);
+                resetButton();
+            });
+        }
+        
+        function resetButton() {
+            const startBtn = document.getElementById('startBtn');
+            startBtn.disabled = false;
+            startBtn.textContent = 'Start Processing';
+            startBtn.style.background = '#007bff';
+        }
+        
+        function showStatus(message) {
+            document.getElementById('statusContent').innerHTML = message;
+            document.getElementById('statusDiv').style.display = 'block';
+        }
+        
+        function hideStatus() {
+            document.getElementById('statusDiv').style.display = 'none';
+        }
+        
+        function showResult(message) {
+            document.getElementById('resultContent').innerHTML = message;
+            document.getElementById('resultDiv').style.display = 'block';
+        }
+        
+        function showError(message) {
+            document.getElementById('errorContent').innerHTML = message;
+            document.getElementById('errorDiv').style.display = 'block';
+        }
+        
+        function hideAllMessages() {
+            document.getElementById('statusDiv').style.display = 'none';
+            document.getElementById('resultDiv').style.display = 'none';
+            document.getElementById('errorDiv').style.display = 'none';
+        }
+    </script>
+</body>
+</html>
